@@ -1,4 +1,4 @@
-C:\Users\EXPERT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.3317.49\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\EXPERT\CLionProjects\untitled2
+C:\Users\EXPERT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.3317.49\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\workspace\c_plus_plus_examples\CalculationOfDemandForCandy
 -- The C compiler identification is GNU 7.1.0
 -- The CXX compiler identification is GNU 7.1.0
 -- Check for working C compiler: C:/Program Files/mingw32/bin/gcc.exe
@@ -15,4 +15,4 @@ C:\Users\EXPERT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.3317.49\bin\
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/EXPERT/CLionProjects/untitled2/cmake-build-debug
+-- Build files have been written to: D:/workspace/c_plus_plus_examples/CalculationOfDemandForCandy/cmake-build-debug
